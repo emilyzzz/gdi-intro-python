@@ -2,9 +2,7 @@ _under construction_
 
 ### Intro to Python
 
-I started this tutorial based on https://github.com/calebsmith/gdi-intro-python, then added more stuff
-
-Last update: 6.9.2018 11:59 PM
+Last update: 6.11.2018 10:21 PM
 
 ### Lecture 1
 * Programming in Python
@@ -17,3 +15,7 @@ Last update: 6.9.2018 11:59 PM
 * If Statement
 * Loops: for loop, while loop
 * Function
+
+### Lecture 3
+* Python Sequence: List, Tuple
+* Dictionary
