@@ -1,8 +1,6 @@
-_under construction_
-
 ### Intro to Python
-
-Last update: 6.11.2018 10:21 PM
+- Author: Emily Z
+- Last update: 6.13.2018 1:08 AM
 
 ### Lecture 1
 * Programming in Python
@@ -19,3 +17,9 @@ Last update: 6.11.2018 10:21 PM
 ### Lecture 3
 * Python Sequence: List, Tuple
 * Dictionary
+
+### Lecture 4
+* Review & Practice: string, list, dict
+* Set
+* Class
+* Whole Lecture Summary
