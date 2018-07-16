@@ -1,6 +1,5 @@
 ### Intro to Python
 - Author: Emily Z
-- Last update: 6.13.2018 4:46 PM
 
 ### Lecture 1
 * Programming in Python
